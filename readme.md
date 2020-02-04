@@ -1,3 +1,14 @@
+# Custom QMK Firmware
+
+This repo contains all of my personal custom QMK keymaps. It's a
+fork of [the offiical QMK firmware](https://github.com/qmk/qmk_firmware) and synced regularly. 
+
+### Quicklinks to Custom Keymaps
+- Massdrop Alt
+    - [jeph](https://github.com/jeph/qmk_firmware/tree/jeph-keymaps/keyboards/massdrop/alt/keymaps/jeph)
+
+Learn more about QMK below.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
