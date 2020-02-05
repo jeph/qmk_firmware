@@ -24,9 +24,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID          0xEED3
 #define DEVICE_VER          0x0101
 
-#define MANUFACTURER        "Massdrop Inc."
-#define PRODUCT             "ALT Keyboard"
-#define SERIAL_NUM          "Unavailable"
+#define MANUFACTURER        "?"
+#define PRODUCT             "?"
+#define SERIAL_NUM          "?"
 
 /* key matrix size */
 #define MATRIX_ROWS 5
@@ -100,7 +100,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define LOCKING_RESYNC_ENABLE
 
 /* Force boot in NKRO mode */
-//#define FORCE_NKRO
+#define FORCE_NKRO
 
 /*
  * Feature disable options
